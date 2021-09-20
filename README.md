@@ -18,48 +18,40 @@ Activate me in your console or terminal. Just type:
 ⬇️
 ```bash $: npx derekmartin```
 
-** This command line tool can be found at [npx derekmartin](https://github.com/derekmartinjs/npm-card)**
+**This command line tool can be found at [npx derekmartin](https://github.com/derekmartinjs/npm-card)**
 ⬆️
 
+ <img src='https://avatars.githubusercontent.com/u/59883894?s=400&u=6874854833582701f165195a76ad51f422af94bf&v=4' alt='Derek Martin' style="float:right;" height="230" width='230' /> So a bit about me...
 
-## 🏋️‍♂️What I’m Up To
-How to Reach Me 
-
-## Writing and <code />
-
-GitHub Gist code snippets
-[WIP] CodePen snippets
-[WIP] LeetCode solutions and notes
-
-## Technologies & Tools
-⚛️ React / React Native
-⚡️ Next.js
-🔥 Firebase
-☄☁ Google Cloud Platform / AWS Astro
-〰️ Alexa / Google Dialogflow
-🤓 HTML5
-💅🏼 CSS3
-🖌️ SVG 2
-🐟 JavaScript
-🚀 TypeScript
-🤖 Node.js
-🥞 PostgreSQL/MySQL
-🕴️BigQuery / MongoDB
-
-## Highlight Projects
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!--
-**derekmartinjs/derekmartinjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+```javascript
+  import swagger from 'derek-senior';
+  import { drive, senseOfHumor } from 'mom';
+  
+  const derek = {
+    pronouns: ["He", "Him"].join(" | "),
+    code: ["JavaScript", "TypeScript", "Java", "Swift", "Python"],
+    askMeAbout: ["digital marketing", "automation", "web app development", "running", "MMA"],
+    technologies: {
+      backEnd: ["node", "Vercel", "Google Cloud Platform", "AWS", "Gatsby"],
+      frameworks: ["Express", "GraphQL", "Firebase", "Next.js", "React"],
+      mobileApp: {
+        native: ["iOS", "Android"],
+        frameworks: ["Xcode", "React Native"],
+      },
+      tooling: ["Gitpod", "VSCode", "Sketch", "Husky", "Prettier", "ESLint", "yarn"],
+      devOps: ["GitHub Actions", "Google Cloud", "Docker", "Gitpod"],
+      databases: ["bq", "mongo", "mysql", "postgres],
+      misc: ["xstate", "Alexa", "DialogFlow", "chatbots", "Firebase", "jovo", "gsap3", "svg", "css", "jest", "cypress"],
+    },
+    architecture: ["Serverless", "Progressive Web Apps", "Single-page apps"],
+    currentFocus: "Web app development, animation, and state machines",
+    funFact: "I read 2-3 books a month, usually geeking out on code"
+    lookingForCollaboration: true,
+    interestedInOpenSourceProjects: true, 
+    keyProjects: ["TBA"],
+    currentlyLearning: ["greensock", "svg", "chatbots", "rpa", "tensorflow.js", "xstate", "design patterns"],
+    attributes: [relentlessDrive, thirstForKnowledge, seekingOutBestPracticesInRealLife],
+  };
+  
+  export default derek;
+```
