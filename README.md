@@ -11,7 +11,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/derekmartin?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://derekmartin.codes/)](https://derekmartincodes/)
 ![](https://visitor-badge.glitch.me/badge?page_id=derekmartinjs.derekmartinjs)
-[![CodePen Readme](https://codepen.io/derekmartin)
+![CodePen](https://codepen.io/derekmartin)
 
 Activate me in your console or terminal. Just type:
 
