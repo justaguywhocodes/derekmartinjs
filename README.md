@@ -45,7 +45,7 @@ Activate me in your console or terminal. Just type:
     },
     architecture: ["Serverless", "Progressive Web Apps", "Single-page apps"],
     currentFocus: "Web app development, animation, and state machines",
-    funFact: "I read 2-3 books a month, usually geeking out on code"
+    funFact: "I read 2-3 books a month, usually geeking out on code",
     lookingForCollaboration: true,
     interestedInOpenSourceProjects: true, 
     keyProjects: ["TBA"],
