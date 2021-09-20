@@ -1,4 +1,6 @@
-### Hi there 👋
+### Konnichiwa (こんにちは (greetings friend), I am Derek Martin 👋
+<code>this is a test</test>
+** This command line tool can be found at ``npx derekmartin``
 
 !! Badges 
 
@@ -11,7 +13,21 @@ How to Reach Me
 GitHub Gist code snippets
 [WIP] CodePen snippets
 [WIP] LeetCode solutions and notes
+
 ## Technologies & Tools
+⚛️ React / ReactNative
+⚡️ Next.js
+🔥 Firebase
+☄☁ Google Cloud Platform / AWS Astro
+〰️ Alexa / Google Dialogflow
+🤓 HTML5
+💅🏼 CSS3
+🖌️ SVG 2
+🐟 JavaScript
+🚀 TypeScript
+🤖 Node.js
+🥞 PostgreSQL/MySQL
+🕴️BigQuery / MongoDB
 
 ## Highlight Projects
 
