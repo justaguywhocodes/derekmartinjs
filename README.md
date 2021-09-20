@@ -1,10 +1,14 @@
-### Konnichiwa (こんにちは (greetings friend), I am Derek Martin 👋
-<code>this is a test</test>
+### Konnichiwa (こんにちは) Howdy 🤠, I am Derek Martin 👋
+
+<div style='background-color:black; color:green'>
+  <code>$: npx derekmartin</code>
+  <span>No really, try it :-D</span>
+</div>
 ** This command line tool can be found at ``npx derekmartin``
 
 !! Badges 
 
-## $: whoami 
+## 
 ## 🏋️‍♂️What I’m Up To
 How to Reach Me 
 
