@@ -1,9 +1,19 @@
 ### Hi there 👋
 
-<!--
-**derekmartinjs/derekmartinjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!! Badges 
 
-Here are some ideas to get you started:
+## $: whoami 
+## 🏋️‍♂️What I’m Up To
+How to Reach Me 
+
+## Writing and <code />
+
+GitHub Gist code snippets
+[WIP] CodePen snippets
+[WIP] LeetCode solutions and notes
+## Technologies & Tools
+
+## Highlight Projects
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +23,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!--
+**derekmartinjs/derekmartinjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
