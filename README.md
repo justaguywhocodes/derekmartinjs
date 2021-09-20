@@ -4,8 +4,10 @@
 <p>
   <em>Full-stack Software Engineer with expertise in digital marketing and reporting</em>
 </p> 
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/derekmartindev?label=Follow)](https://twitter.com/intent/follow?screen_name=derekmartindev)
-[![Linkedin: anmol](https://img.shields.io/badge/-derek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/derekmartinjs/)](https://www.linkedin.com/in/derekmartinjs/)
+
+[![Linkedin: derekmartinjs](https://img.shields.io/badge/-derek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/derekmartinjs/)](https://www.linkedin.com/in/derekmartinjs/)
 ![GitHub followers](https://img.shields.io/github/followers/derekmartin?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://derekmartin.codes/)](https://derekmartincodes/)
 ![](https://visitor-badge.glitch.me/badge?page_id=derekmartinjs.derekmartinjs)![CodePen Readme]
