@@ -1,6 +1,6 @@
-<h2>Konnichiwa (こんにちは) Hello there, I am Derek Martin  
+<h2>Konnichiwa (こんにちは) Hello there, I am Derek Martin</h2>
   <img src='https://avatars.githubusercontent.com/u/59883894?s=400&u=6874854833582701f165195a76ad51f422af94bf&v=4' alt='Derek Martin' style="float:right;" height="230" width='230' />
-</h2>
+
 <p>
   <em>Full-stack Software Engineer with expertise in digital marketing and reporting</em>
 </p> 
@@ -13,14 +13,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=derekmartinjs.derekmartinjs)
 ![CodePen Readme](https://codepen.io/derekmartin)
 
-Activate me in your console or terminal. Just type
+Activate me in your console or terminal. Just type:
+
 ⬇️
 ```bash $: npx derekmartin```
 
 ** This command line tool can be found at [npx derekmartin](https://github.com/derekmartinjs/npm-card)**
 ⬆️
-
-### <img src="https://media.giphy.com/media/NQmsmNj6PEiWY/giphy.gif?cid=ecf05e4777x0w0mkqm8q868t14u4e8xbd95tfa62odq2wk0z&rid=giphy.gif&ct=g" width="200" /> So a little about me...  
 
 
 ## 🏋️‍♂️What I’m Up To
