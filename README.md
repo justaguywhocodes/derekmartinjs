@@ -2,7 +2,7 @@
 
 !! Badges 
 
-## $: whoami 
+## ```$: whoami ```
 ## 🏋️‍♂️What I’m Up To
 How to Reach Me 
 
