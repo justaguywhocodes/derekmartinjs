@@ -1,17 +1,25 @@
-<h2>Konnichiwa (こんにちは) Hello there, I am Derek Martin 👋 
-  <img src='https://avatars.githubusercontent.com/u/59883894?s=400&u=6874854833582701f165195a76ad51f422af94bf&v=4' alt='Derek Martin' style="float:right;" height="150" width='150' />
+<h2>Konnichiwa (こんにちは) Hello there, I am Derek Martin  
+  <img src='https://avatars.githubusercontent.com/u/59883894?s=400&u=6874854833582701f165195a76ad51f422af94bf&v=4' alt='Derek Martin' style="float:right;" height="230" width='230' />
 </h2>
+<p>
+  <em>Full-stack Software Engineer with expertise in digital marketing and reporting</em>
+</p> 
+[![Twitter Follow](https://img.shields.io/twitter/follow/derekmartindev?label=Follow)](https://twitter.com/intent/follow?screen_name=derekmartindev)
+[![Linkedin: anmol](https://img.shields.io/badge/-derek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/derekmartinjs/)](https://www.linkedin.com/in/derekmartinjs/)
+![GitHub followers](https://img.shields.io/github/followers/derekmartin?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://derekmartin.codes/)](https://derekmartincodes/)
+![](https://visitor-badge.glitch.me/badge?page_id=derekmartinjs.derekmartinjs)![CodePen Readme]
+
+Activate me in your console or terminal. Just type
+⬇️
+```bash $: npx derekmartin```
+
+** This command line tool can be found at [npx derekmartin](https://github.com/derekmartinjs/npm-card)**
+⬆️
+
+### <img src="https://giphy.com/gifs/kanye-west-runaway-run-away-NQmsmNj6PEiWY" width="200" /> So a little about me...  
 
 
-<div style='background-color:black; color:green'>
-  <code>$: npx derekmartin</code>
-  <span>No really, try it :-D</span>
-</div>
-** This command line tool can be found at ``npx derekmartin``
-
-!! Badges 
-
-## 
 ## 🏋️‍♂️What I’m Up To
 How to Reach Me 
 
