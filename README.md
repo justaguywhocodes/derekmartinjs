@@ -18,7 +18,7 @@
 ⬇️
 ```bash $: npx derekmartin```
 
-**This command line tool can be found at [npx derekmartin](https://github.com/derekmartinjs/npm-card)**
+**This command line tool can be found at [npx derekmartin](https://github.com/derekmartinjs/npx-card)**
 ⬆️
 
  <img src='https://media.giphy.com/media/NQmsmNj6PEiWY/giphy.gif?cid=ecf05e4777x0w0mkqm8q868t14u4e8xbd95tfa62odq2wk0z&rid=giphy.gif&ct=g' alt='Derek Martin' style="float:right;" height="230" width='230' /> So a bit about me...
