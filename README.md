@@ -23,17 +23,18 @@ Activate me in your console or terminal. Just type:
 
  <img src='https://media.giphy.com/media/NQmsmNj6PEiWY/giphy.gif?cid=ecf05e4777x0w0mkqm8q868t14u4e8xbd95tfa62odq2wk0z&rid=giphy.gif&ct=g' alt='Derek Martin' style="float:right;" height="230" width='230' /> So a bit about me...
 
-```javascript
+```typescript
   import { swagger, loveOfTheGame, thirstForKnowledge } from 'dad';
   import { drive, senseOfHumor, optimism } from 'mom';
   
-  const derek = {
+  const derekBio: Biography = {
     pronouns: ["He", "Him"].join(" | "),
-    code: ["JavaScript", "TypeScript", "Java", "Swift", "Python"],
+    code: ["JavaScript", "TypeScript", "Java", "Swift", "Python", "Ruby", "Objective-C", "Go"],
     askMeAbout: ["digital marketing", "automation", "web app development", "running", "MMA"],
+    yearsActive: 5,
     technologies: {
       backEnd: ["node", "Vercel", "Google Cloud Platform", "AWS", "Gatsby"],
-      frameworks: ["Express", "GraphQL", "Firebase", "Next.js", "React"],
+      frameworks: ["Express", "GraphQL", "Firebase", "Next.js", "React", "Nuxt"],
       mobileApp: {
         native: ["iOS", "Android"],
         frameworks: ["Xcode", "React Native"],
