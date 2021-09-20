@@ -21,7 +21,7 @@ Activate me in your console or terminal. Just type:
 **This command line tool can be found at [npx derekmartin](https://github.com/derekmartinjs/npm-card)**
 ⬆️
 
- <img src='https://avatars.githubusercontent.com/u/59883894?s=400&u=6874854833582701f165195a76ad51f422af94bf&v=4' alt='Derek Martin' style="float:right;" height="230" width='230' /> So a bit about me...
+ <img src='https://media.giphy.com/media/NQmsmNj6PEiWY/giphy.gif?cid=ecf05e4777x0w0mkqm8q868t14u4e8xbd95tfa62odq2wk0z&rid=giphy.gif&ct=g' alt='Derek Martin' style="float:right;" height="230" width='230' /> So a bit about me...
 
 ```javascript
   import swagger from 'derek-senior';
