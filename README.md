@@ -30,7 +30,7 @@
   const derekBio: Biography = {
     pronouns: ["He", "Him"].join(" | "),
     code: ["JavaScript", "TypeScript", "Java", "Swift", "Python", "Ruby", "Objective-C", "Go"],
-    askMeAbout: ["digital marketing", "automation", "web app development", "running", "MMA"],
+    askMeAbout: ["digital marketing", "marketing automation", "web app development", "firebase", "GraphQL", "running", "MMA"],
     yearsActive: 5,
     technologies: {
       backEnd: ["node", "Vercel", "Google Cloud Platform", "AWS", "Gatsby"],
