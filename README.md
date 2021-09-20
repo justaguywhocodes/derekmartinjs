@@ -10,7 +10,8 @@
 [![Linkedin: derekmartinjs](https://img.shields.io/badge/-derek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/derekmartinjs/)](https://www.linkedin.com/in/derekmartinjs/)
 ![GitHub followers](https://img.shields.io/github/followers/derekmartin?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://derekmartin.codes/)](https://derekmartincodes/)
-![](https://visitor-badge.glitch.me/badge?page_id=derekmartinjs.derekmartinjs)![CodePen Readme]
+![](https://visitor-badge.glitch.me/badge?page_id=derekmartinjs.derekmartinjs)
+![CodePen Readme](https://codepen.io/derekmartin)
 
 Activate me in your console or terminal. Just type
 ⬇️
@@ -19,7 +20,7 @@ Activate me in your console or terminal. Just type
 ** This command line tool can be found at [npx derekmartin](https://github.com/derekmartinjs/npm-card)**
 ⬆️
 
-### <img src="https://giphy.com/gifs/kanye-west-runaway-run-away-NQmsmNj6PEiWY" width="200" /> So a little about me...  
+### <img src="https://media.giphy.com/media/NQmsmNj6PEiWY/giphy.gif?cid=ecf05e4777x0w0mkqm8q868t14u4e8xbd95tfa62odq2wk0z&rid=giphy.gif&ct=g" width="200" /> So a little about me...  
 
 
 ## 🏋️‍♂️What I’m Up To
@@ -32,7 +33,7 @@ GitHub Gist code snippets
 [WIP] LeetCode solutions and notes
 
 ## Technologies & Tools
-⚛️ React / ReactNative
+⚛️ React / React Native
 ⚡️ Next.js
 🔥 Firebase
 ☄☁ Google Cloud Platform / AWS Astro
