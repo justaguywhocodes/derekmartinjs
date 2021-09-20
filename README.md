@@ -1,5 +1,5 @@
 <h2>Konnichiwa (こんにちは) Hello there, I am Derek Martin 👋 
-  <img src='https://avatars.githubusercontent.com/u/59883894?s=400&u=6874854833582701f165195a76ad51f422af94bf&v=4' alt='Derek Martin' width='250' />
+  <img src='https://avatars.githubusercontent.com/u/59883894?s=400&u=6874854833582701f165195a76ad51f422af94bf&v=4' alt='Derek Martin' style="float:right;" height="150" width='150' />
 </h2>
 
 
