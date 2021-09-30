@@ -2,7 +2,7 @@
   <img src='https://avatars.githubusercontent.com/u/59883894?s=400&u=6874854833582701f165195a76ad51f422af94bf&v=4' alt='Derek Martin' style="float:right;" height="230" width='230' />
 
 <p>
-  <em>Full-stack Software Engineer with expertise in digital marketing and reporting</em>
+  <em>Full-stack Software Engineer with expertise in Next.js, React,digital marketing and reporting, and so much more. </em>
 </p> 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/derekmartindev?label=Follow)](https://twitter.com/intent/follow?screen_name=derekmartindev)
