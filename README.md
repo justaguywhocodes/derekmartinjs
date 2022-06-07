@@ -1,1 +1,1 @@
-REWRITE IN PROGRESS
+I'm Derek Martin, CEO of Martinomics. I'm a seasoned JavaScript developer, and I've been working in the software development industry for over 20 years. I'm also a Villanova grad, and I love running marathons. In my spare time, I like to write books. I'm a loyal friend and husband, and I love spending time with my family and friends.
