@@ -16,13 +16,15 @@
 
 PROTON LINKEDIN 
 
-[https://leetcode.com/problemset/database/](https://leetcode.com/problemset/database/)
+[https://derek.so](derek.so)
 
 [https://leetcode.com/derekmartin/](https://leetcode.com/derekmartin/)
 
 [https://app.hackthebox.com/profile/1131917](https://app.hackthebox.com/profile/1131917)
 
 [https://hackerone.com/martinomics?type=user](https://hackerone.com/martinomics?type=user)
+
+[https://www.bugbountyhunter.com/hunter/martinomics](Bug Bounty Hunter)
 
 ---
 
