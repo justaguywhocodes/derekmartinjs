@@ -43,4 +43,4 @@ Main tech knowledge
 
 ### 🎓Certifications
 
-- AlgoExpert
+- AlgoExpert (https://certificate.algoexpert.io/AlgoExpert%20Certificate%20AE-07b5ebf346)
